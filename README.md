@@ -32,16 +32,25 @@ Residual connections, also known as skip connections, are an integral part of th
 
 In this project, residual connections are implemented in the `Block` class for both self-attention and feed-forward neural network layers.
 
-# slides
-![Training Process](transformer1.png)
-
-
-
-
-
-
-
 Ensure you have the necessary dependencies installed:
 
 ```bash
 pip install torch
+
+
+# slides
+![Training Process](transformer.png)
+![Training Process](transformer1.png)
+![Training Process](transformer2.png)
+![Training Process](transformer3.png)
+![Training Process](transformer4.png)
+![Training Process](transformer5.png)
+![Training Process](transformer6.png)
+![Training Process](transformer7.png)
+![Training Process](transformer8.png)
+![Training Process](transformer9.png)
+![Training Process](transformer10.png)
+![Training Process](transformer11.png)
+![Training Process](transformer12.png)
+![Training Process](transformer13.png)
+![Training Process](transformer14.png)
