@@ -36,7 +36,7 @@ Ensure you have the necessary dependencies installed:
 
 ```bash
 pip install torch
-
+```
 
 # slides
 ![Training Process](transformer.png)
