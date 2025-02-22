@@ -32,9 +32,15 @@ Residual connections, also known as skip connections, are an integral part of th
 
 In this project, residual connections are implemented in the `Block` class for both self-attention and feed-forward neural network layers.
 
-## Usage
+# slides
+(transformer1.png)
 
-### 1. Environment Setup
+
+
+
+
+
+
 
 Ensure you have the necessary dependencies installed:
 
